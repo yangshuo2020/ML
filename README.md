@@ -22,7 +22,7 @@ Issue和discussion提问题的命名规范，方便查看和查找
    - 资料：https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes
 
 - CS229
-   - 课程：https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
-   -      https://www.bilibili.com/video/BV1JE411w7Ub?spm_id_from=333.337.search-card.all.click
+   - 课程(Youtube)：https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+   - 课程(Bilibili)： https://www.bilibili.com/video/BV1JE411w7Ub?spm_id_from=333.337.search-card.all.click
    - 课表：https://cs229.stanford.edu/syllabus-autumn2018.html
    - 资料：https://github.com/maxim5/cs229-2018-autumn
