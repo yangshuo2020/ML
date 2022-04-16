@@ -12,17 +12,17 @@
 Issue和discussion提问题的命名规范，方便查看和查找
 【Note/Lecture】2.2 问题简述
 
-##学习资料
+## 学习资料
 - 杭电MIL实验室2019暑期 研究生机器学习与深度学习入门课程 https://hdumil.github.io/summer-school/
 - 《动手学深度学习》李沐线上版pdf https://zh.d2l.ai/
 
-##课程
+## 课程
 - CS229a
--- 课程：https://www.coursera.org/course/ml
--- 资料：https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes
+   - 课程：https://www.coursera.org/course/ml
+   - 资料：https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes
 
 - CS229
--- 课程：https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
---      https://www.bilibili.com/video/BV1JE411w7Ub?spm_id_from=333.337.search-card.all.click
--- 课表：https://cs229.stanford.edu/syllabus-autumn2018.html
--- 资料：https://github.com/maxim5/cs229-2018-autumn
+   - 课程：https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+   -      https://www.bilibili.com/video/BV1JE411w7Ub?spm_id_from=333.337.search-card.all.click
+   - 课表：https://cs229.stanford.edu/syllabus-autumn2018.html
+   - 资料：https://github.com/maxim5/cs229-2018-autumn
