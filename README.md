@@ -12,7 +12,21 @@
 Issue和discussion提问题的命名规范，方便查看和查找
 【Note/Lecture】2.2 问题简述
 
+
+
+## 利用分支同步`repo`
+
+尝试通过`branch`来共享我们做的笔记和编程习题.
+
+1.   先将这个repo`clone`到本地;
+2.   在本地通过`git branch <branch-name>`创建一个分支;
+3.   然后通过`git checkout <branch-name>`切换到你所在的分支
+4.   根据上面的约定在每周的文件夹下更新学习任务计划,创建`笔记`和`HW`下的属于你的文件夹,在对应的文件夹下添加笔记和编程作业
+5.   添加提交你的修改
+6.   切换`git checkout master `切换到主分支,然后  `git merge <branch-name>`j将你分支的变动合并到主分支`master`上. 
+
 ## 学习资料
+
 - 杭电MIL实验室2019暑期 研究生机器学习与深度学习入门课程 https://hdumil.github.io/summer-school/
 - 《动手学深度学习》李沐线上版pdf https://zh.d2l.ai/
 
