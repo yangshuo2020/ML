@@ -123,3 +123,16 @@ we should should choose θ so as to make the data as high probability as possibl
 如果权重w非常大,要选择一个合适的学习率$\theta$将损失变得很小;如果w非常小,那么平方损失项在拟合中将会被忽略.关于权重的一个选择是:
 
 ![image-20220413204040722](https://s2.loli.net/2022/04/13/TzgfbP3pLQMxFiA.png)
+
+尽管权重的 公式和高斯分布的公式很像,但是它们之间没有任何关系,权重w并不是一个随机变量.参数$\tau$被称为带宽参数*bandwidth*,控制$x(i) 与 x$之间距离下降的速度.
+
+
+
+**parametric vs. non-parametric**
+
+parametric : it  has  a  fixed,  finite  number  of  parameters;一旦你和出来$\theta$就可以将它们存储起来,在将来的预测中不再需要训练数据.
+
+non-parametric: 需要保存完整的训练集在进行预测时.我们需要保持的东西,为了假设,需要随着训练集线性增长.
+
+
+
